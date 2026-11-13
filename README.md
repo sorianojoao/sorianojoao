@@ -68,7 +68,7 @@ Atuo e estudo tecnologias ligadas a **Windows/Linux, Python, PowerShell, monitor
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [Controle Simule](https://github.com/sorianojoao/-controle-simule)
+### 📊 [Controle de Vendas](https://github.com/sorianojoao/-controle-simule)
 
 Plataforma de **gestão comercial**, com foco em clientes, contratos, vendas e comissões. Projeto com desenvolvimento organizado por sprints e validações técnicas.
 
@@ -81,7 +81,7 @@ Plataforma de **gestão comercial**, com foco em clientes, contratos, vendas e c
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ NTZ Optimizer 2.0
+### 🖥️ [NTZ Optimizer 2.0](https://github.com/sorianojoao/ntz-optimizer-2)
 
 Projeto de aplicativo para **diagnóstico e manutenção controlada do Windows**, com pesquisa sobre arquitetura desktop/cloud, autenticação e avaliação mensurável de eficiência.
 
@@ -89,7 +89,7 @@ Projeto de aplicativo para **diagnóstico e manutenção controlada do Windows**
 
 **Status:** protótipos locais e arquitetura 2.0 em estudo
 
-*Repositório público ainda não informado.*
+[Ver repositório](https://github.com/sorianojoao/ntz-optimizer-2)
 
 </td>
 </tr>
